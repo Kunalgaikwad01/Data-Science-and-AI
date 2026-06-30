@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Data Science & AI
 
 <div align="center">
@@ -252,4 +251,4 @@ This project is licensed under the **MIT License**.
 **Happy Coding!** 💙
 
 </div>
-```
+
